@@ -6,8 +6,7 @@
 * [AngularJS Works!](https://rafaelferreiraql.github.io/angularjsworks/)
 
 ## Pages currently in development
-(None)
+* ReactJS Works! (but doesn't have a repo yet)
 
 ## Pages currently planned
-* ReactJS Works!
 * D3.js Works!
