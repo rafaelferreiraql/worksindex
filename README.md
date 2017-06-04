@@ -4,9 +4,11 @@
 ## Pages currently released
 * [Webpack Works!](https://rafaelferreiraql.github.io/webpackworks/)
 * [AngularJS Works!](https://rafaelferreiraql.github.io/angularjsworks/)
+* [React Works!](https://rafaelferreiraql.github.io/reactjsworks/)
 
 ## Pages currently in development
-* ReactJS Works! (but doesn't have a repo yet)
+None right now
 
 ## Pages currently planned
 * D3.js Works!
+* jQuery Works!
